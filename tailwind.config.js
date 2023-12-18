@@ -8,7 +8,7 @@ module.exports = {
     extend: {
       colors: {
         'light-gray': 'hsl(212, 45%, 89%)',
-        'gray-blue': 'hsl(220, 15%, 55%)',
+        'gray-blue': 'hsl(220, 15%, 45%)',
         'dark-blue': 'hsl(218, 44%, 22%)',
       },
     },
