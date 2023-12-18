@@ -624,6 +624,18 @@ video {
   line-height: 28px;
 }
 
+.leading-6 {
+  line-height: 1.5rem;
+}
+
+.leading-5 {
+  line-height: 1.25rem;
+}
+
+.leading-4 {
+  line-height: 1rem;
+}
+
 .tracking-\[0\.188px\] {
   letter-spacing: 0.188px;
 }
